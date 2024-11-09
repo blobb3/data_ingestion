@@ -1,0 +1,60 @@
+Minergie-PDefinitivMelano 6818Neubau, SchuleGebäude TI-158-A
+MinergieProvisorischEcublens 1024Neubau, EFHGebäude VD-4335, ... (4)
+MinergieDefinitivRenens VD 1020Neubau, EFHGebäude VD-3780
+MinergieDefinitivEchallens 1040Neubau, EFHGebäude VD-3846
+MinergieDefinitivEchallens 1040Neubau, EFHGebäude VD-3845
+MinergieDefinitivEchallens 1040Neubau, EFHGebäude VD-3844
+MinergieDefinitivEchallens 1040Neubau, EFHGebäude VD-3843
+MinergieDefinitivEchallens 1040Neubau, EFHGebäude VD-3842
+MinergieDefinitivEchallens 1040Neubau, EFHGebäude VD-3841
+MinergieDefinitivEchallens 1040Neubau, EFHGebäude VD-3840
+Minergie-P-ECOProvisorischLuzern 6006Neubau, MFHGebäude LU-050-P-ECO
+MinergieDefinitivChêne-Bourg 1225Neubau, VerkaufGebäude GE-1748
+MinergieDefinitivChêne-Bourg 1225Erneuerung, Verkauf / VerwaltungGebäude GE-1701
+MinergieDefinitivChêne-Bourg 1225Neubau, MFHGebäude GE-1702
+MinergieDefinitivAltdorf 6460Erneuerung, VerwaltungGebäude UR-229
+Minergie-ADefinitivTaicang 45689Neubau, VerwaltungGebäude CHN-001-A
+MinergieDefinitivHorw 6048Erneuerung, EFHGebäude LU-2532
+MinergieDefinitivGenève 1202Erneuerung, SchuleGebäude GE-1805
+MinergieDefinitivGenève 1202Erneuerung, MFHGebäude GE-1801
+MinergieDefinitivGenève 1202Erneuerung, MFHGebäude GE-1802
+MinergieDefinitivGenève 1202Erneuerung, MFHGebäude GE-1803
+MinergieDefinitivGenève 1202Erneuerung, MFHGebäude GE-1800
+MinergieDefinitivGenève 1202Erneuerung, Restaurant / VersammlungslokalGebäude GE-1788
+MinergieProvisorischKloten 8302Neubau, MFH / VerwaltungGebäude ZH-10405, ... (2)
+MinergieProvisorischKloten 8302Neubau, MFH / VerwaltungGebäude ZH-10402, ... (3)
+MinergieProvisorischKloten 8302Neubau, MFH / VerwaltungGebäude ZH-10399, ... (3)
+Minergie-P-ECOProvisorischZürich 8064Neubau, Verwaltung / MFHGebäude ZH-384-P-ECO
+Minergie-P-ECOProvisorischZürich 8064Neubau, MFH / VerwaltungGebäude ZH-385-P-ECO
+Minergie-P-ECOProvisorischZürich 8064Neubau, Verwaltung / MFHGebäude ZH-386-P-ECO
+Minergie-P-ECOProvisorischZürich 8064Neubau, Restaurant / MFHGebäude ZH-387-P-ECO
+Minergie-P-ECOProvisorischZürich 8064Neubau, Verwaltung / MFHGebäude ZH-388-P-ECO
+Minergie-PDefinitivCourtételle 2852Neubau, EFHGebäude JU-129-P
+Minergie-PDefinitivCourtételle 2852Neubau, EFHGebäude JU-130-P
+Minergie-PDefinitivCourtételle 2852Neubau, EFHGebäude JU-131-P
+Minergie-PDefinitivCourtételle 2852Neubau, EFHGebäude JU-132-P
+Minergie-PDefinitivCourtételle 2852Neubau, EFHGebäude JU-133-P
+Minergie-PDefinitivCourtételle 2852Neubau, EFHGebäude JU-134-P
+Minergie-PDefinitivMervelier 2827Neubau, EFHGebäude JU-177-P
+Minergie-PProvisorischMontreux 1820Neubau, MFHGebäude VD-482-P
+Minergie-PProvisorischMontreux 1820Neubau, MFHGebäude VD-481-P
+MinergieProvisorischHallau 8215Neubau, MFHGebäude SH-688
+MinergieProvisorischHallau 8215Neubau, MFHGebäude SH-687
+MinergieProvisorischVaduz 9490Neubau, Restaurant / VerwaltungGebäude FL-315
+Minergie-PProvisorischZuzwil 9524Neubau, EFHGebäude SG-287-P
+MinergieProvisorischPoliez-Pittet 1041Neubau, MFHGebäude VD-4334
+MinergieProvisorischPoliez-Pittet 1041Neubau, MFHGebäude VD-4333
+MinergieDefinitivSion 1950Neubau, SchuleGebäude VS-2480
+MinergieDefinitivSion 1950Neubau, Schule / RestaurantGebäude VS-2481
+MinergieDefinitivSion 1950Neubau, SchuleGebäude VS-2482
+MinergieDefinitivBaden 5400Erneuerung, EFHGebäude AG-6034
+MinergieProvisorischGenève 1209Erneuerung, MFHGebäude GE-1903
+MinergieDefinitivBramois 1967Neubau, MFHGebäude VS-2529, ... (5)
+MinergieDefinitivSion 1950Neubau, MFHGebäude VS-2251
+MinergieDefinitivLe Locle 2400Neubau, IndustrieGebäude NE-467
+Minergie-PProvisorischBottmingen 4103Neubau, MFHGebäude BL-562-P
+Minergie-PProvisorischBottmingen 4103Neubau, MFHGebäude BL-563-P
+MinergieDefinitivGenève 1202Erneuerung, MFHGebäude GE-1724, ... (9)
+Minergie-PDefinitivKerns 6064Neubau, MFHGebäude OW-023-P
+Minergie-ADefinitivKerns 6064Neubau, MFHGebäude OW-012-A
+Minergie-AProvisorischReinach 4153Neubau, MFHGebäude BL-018-A
