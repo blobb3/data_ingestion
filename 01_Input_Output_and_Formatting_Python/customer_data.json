@@ -1,0 +1,20 @@
+[
+    {
+        "Customer_ID": 1,
+        "Name": "Anna Schmidt",
+        "City": "Berlin",
+        "Phone": "0301234567"
+    },
+    {
+        "Customer_ID": 2,
+        "Name": "Markus Müller",
+        "City": "Hamburg",
+        "Phone": "0407654321"
+    },
+    {
+        "Customer_ID": 3,
+        "Name": "Julia Meyer",
+        "City": "München",
+        "Phone": "0891231234"
+    }
+]
